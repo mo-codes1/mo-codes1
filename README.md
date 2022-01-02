@@ -12,3 +12,5 @@ A committed, hard-working tech enthusiast with an eagerness to learn new things,
 ## Introduction
 
 I had some exposure to coding when it came to my degree. I have a masters in Electrical Engineering and I always knew it was a viable career path, but never really considered it. Being able to design things like websites or apps with nothing more than a keyboard, mouse and your imagination was a skill that I really wanted to learn. 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mo-codes1&theme=radical)
