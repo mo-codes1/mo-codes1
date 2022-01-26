@@ -37,3 +37,15 @@ Electrical Engineer
 - Led groups of 5-10 people with strong reporting and presentation skills, to showcase details of progression to upper management on various tasks in projects.
 - Developed a test equipment and resource planning tool, which could also be used as a template for future projects, which convinced a client to spend a further £400k on the project.
 - Ability to adhere to client regulations and comments with constant communication, which made necessary adjustments to projects run as smoothly as possible
+
+
+## Skills
+
+Makers Academy (October 2021 to January 2022)
+
+- Highly selective 12-week software engineering bootcamp using Ruby, JavaScript, Rails, Sinatra, RSpec, Capybara and Jest
+- Emphasis on Test Driven Development, pair programming and agile methodologies
+- Full stack web development
+- XP values
+- Object-Oriented Design/Programming
+- Enhanced independent learning and problem-solving skills
