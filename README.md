@@ -15,4 +15,12 @@ I had some exposure to coding when it came to my degree. I have a masters in Ele
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mo-codes1&theme=radical)
 
+
+## Featured Projects
+
+
+## Skills
+
+Languages - Ruby (Sinatra, Rails, Capybara, RSpec), JavaScript (React, Node, Express, Jest), PostgreSQL, HTML, CSS, Bootstrap, Command Line.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-codes1)](https://github.com/mo-codes1/github-readme-stats)
