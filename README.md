@@ -24,3 +24,16 @@ I had some exposure to coding when it came to my degree. I have a masters in Ele
 Languages - Ruby (Sinatra, Rails, Capybara, RSpec), JavaScript (React, Node, Express, Jest), PostgreSQL, HTML, CSS, Bootstrap, Command Line.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-codes1)](https://github.com/mo-codes1/github-readme-stats)
+
+
+## Skills
+
+Aker Solutions (September 2019 to January 2022)
+
+Electrical Engineer
+
+- Collaborated with strict deadlines as part of multi-million-pound projects, and consistently produced ideas for continuous improvement which improved the efficiency of projects.
+- Up-skilled significantly and gained associate qualification for SolidWorks Mechanical Design, which enhanced my scope to be able to work on more projects.
+- Led groups of 5-10 people with strong reporting and presentation skills, to showcase details of progression to upper management on various tasks in projects.
+- Developed a test equipment and resource planning tool, which could also be used as a template for future projects, which convinced a client to spend a further £400k on the project.
+- Ability to adhere to client regulations and comments with constant communication, which made necessary adjustments to projects run as smoothly as possible
