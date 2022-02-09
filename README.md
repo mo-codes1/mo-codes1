@@ -3,13 +3,13 @@
   <h1>Mohammed Salah</h1>
 
   <div >
-    <a href="https://www.linkedin.com/in/mabon-ap-gwyn-80ab677b/">
+    <a href="https://www.linkedin.com/in/mohammed-salah-miet-7309b116a/">
         <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://www.codewars.com/users/mosalah123">
+    <a href="">
         <img alt="portfolio" title="My Portfolio" src="https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
-    <a href="">
+    <a href="https://www.codewars.com/users/mosalah123">
         <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white" />
     </a>
   </div>
