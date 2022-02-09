@@ -11,7 +11,9 @@ A committed, hard-working tech enthusiast with an eagerness to learn new things,
 
 ## Introduction
 
-I had some exposure to coding when it came to my degree. I have a masters in Electrical Engineering and I always knew it was a viable career path, but never really considered it. Being able to design things like websites or apps with nothing more than a keyboard, mouse and your imagination was a skill that I really wanted to learn. 
+I had some exposure to coding when it came to my degree. I have a masters in Electrical Engineering and I always knew it was a viable career path, but never really considered it. Being able to design things like websites or apps with nothing more than a keyboard, mouse and your imagination was a skill that I really wanted to learn.
+
+The pandemic came around and I decided that I wanted to pick up coding again, and I really enjoyed to the point that I was starting to create little side projects. I knew to get a real foothold into the tech industry and gain some real insight into how working in tech would look like I would have to join a coding bootcamp. Makers Academy is highly selective of its bootcamp students so it was an honour to be selected for the October 2021 cohort. I completed a Ruby course on Code Academy and got stuck into Codewara katas which I'm still doing regularly to kee myself sharp during my job search. 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mo-codes1&theme=radical)
 
