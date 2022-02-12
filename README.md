@@ -35,7 +35,7 @@ The pandemic came around and I decided that I wanted to pick up coding again, an
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Acebook**            |The student directory script allows you to manage the list of students enrolled at Villains Academy. Completed during the pre-course at Makers. | React, Jest, etc. |
+| **Acebook**            |Social media app inspired by Facebook. Comments and likes functionality along with personal user 'wall' (profile).. | Ruby on Rails, PostgreSQL |
 | **Sweepstake Generator** | A webapp that allows the user to increment or decrement by 1 and also to reset the count if need be. | HTML, CSS, JavaScript              |
 | **React Blog**
 | **Tech Test: Bank**
