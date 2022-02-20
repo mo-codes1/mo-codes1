@@ -15,7 +15,7 @@
   </div>
   <br>
 
-Thanks for taking the time to visit my GitHub! The links below will take you to where you need to go. 
+Thanks for taking the time to visit my GitHub! The links above will take you to where you need to go. 
 
 
 ## Overview
