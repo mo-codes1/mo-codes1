@@ -49,8 +49,9 @@ The pandemic came around and I decided that I wanted to pick up coding again, an
 
 ### Problem Solving
 
-- My experience in the engineering industry, and my background in electrical engineering has led me to always have an inquisitive mind.
+- My experience in the engineering industry, and my background in electrical engineering has led me to always have an inquisitive mind. It also gave me a lot fo opportunities to problem solve. For example, the company was having issues with engineers from different disciplines and different locations worldwide accessing test equipment documents, I developed a test equipment and resource planning tool, which could also be used as a template for future projects, which convinced a client to spend a further £400k on the project.
 - Research and development is my bread and butter so when I got introduced to coding I made it my goal to not only understand fully what I training, but to also implement that into an actual piece of work.
+- Makers Academy enhanced my thirst to problem solve as I soon came to a realisation that problem solving is the continuous theme when it comes anything technical. Test driven development is a concept that I've grown to lvoe and be very comfortable. To be able to build anything of note, problems and errors must be overcome and resolved. That way you know whatever you've built has survived the highs and lows. When it comes to coding in general I never tire of solving these problems and it is the main driver in me being so passionate about tech and wanting to increase my knowledge of software. 
 
 Languages - Ruby (Sinatra, Rails, Capybara, RSpec), JavaScript (React, Node, Express, Jest), PostgreSQL, HTML, CSS, Bootstrap, Command Line.
 
