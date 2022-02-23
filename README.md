@@ -53,6 +53,10 @@ The pandemic came around and I decided that I wanted to pick up coding again, an
 - Research and development is my bread and butter so when I got introduced to coding I made it my goal to not only understand fully what I training, but to also implement that into an actual piece of work.
 - Makers Academy enhanced my thirst to problem solve as I soon came to a realisation that problem solving is the continuous theme when it comes anything technical. Test driven development is a concept that I've grown to lvoe and be very comfortable. To be able to build anything of note, problems and errors must be overcome and resolved. That way you know whatever you've built has survived the highs and lows. When it comes to coding in general I never tire of solving these problems and it is the main driver in me being so passionate about tech and wanting to increase my knowledge of software. 
 
+### Team Player
+ - I've always worked well performing as part of a team. I've worked in countless teams whether that be as part of university, my previous roles and Makers Academy. Working as part of a team gives you that heightened sense of responsibility, because if you don't get the work that you are meant to, you're not only letting yourself down you're also letting your team down. Therefore as a good team player, I've always ensured that any work I've done has been finished on time and kept to the project schedule.
+ - This ability and awareness was very useful during the group projects while studing at Makers Academy. I worked on the backend and the frontend and was able to see how one relied on the other when it came to functionality of the project. Therefore I was able to stick to our predetermined project schedule and even assist other team members get their deliverables over the line to ensure we never missed our deadlines.
+
 Languages - Ruby (Sinatra, Rails, Capybara, RSpec), JavaScript (React, Node, Express, Jest), PostgreSQL, HTML, CSS, Bootstrap, Command Line.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-codes1)](https://github.com/mo-codes1/github-readme-stats)
