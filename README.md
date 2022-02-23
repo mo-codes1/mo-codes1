@@ -14,9 +14,9 @@
   </div>
   <br>
 
-  Thanks for visiting my GitHub! [**Click here**](https://mabon-ap-gwyn.herokuapp.com/) or see above for a link to my portfolio and CV.
+  Thanks for visiting my GitHub! 
 
-  [About Me](#snapshot) | [Projects](#projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Hobbies](#alternative-achievements-and-hobbies)
+  [About Me](#overview) | [Projects](#projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Hobbies](#alternative-achievements-and-hobbies)
 
 </div>
 
@@ -46,6 +46,11 @@ The pandemic came around and I decided that I wanted to pick up coding again, an
 
 
 ## Skills
+
+### Problem Solving
+
+- My experience in the engineering industry, and my background in electrical engineering has led me to always have an inquisitive mind.
+- Research and development is my bread and butter so when I got introduced to coding I made it my goal to not only understand fully what I training, but to also implement that into an actual piece of work.
 
 Languages - Ruby (Sinatra, Rails, Capybara, RSpec), JavaScript (React, Node, Express, Jest), PostgreSQL, HTML, CSS, Bootstrap, Command Line.
 
