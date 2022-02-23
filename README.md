@@ -1,5 +1,5 @@
 
-<div >
+<div align="center">
   <h1>Mohammed Salah</h1>
 
   <div >
