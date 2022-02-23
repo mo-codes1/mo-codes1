@@ -1,8 +1,7 @@
-
 <div align="center">
   <h1>Mohammed Salah</h1>
 
-  <div >
+  <div align="center">
     <a href="https://www.linkedin.com/in/mohammed-salah-miet-7309b116a/">
         <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
@@ -15,7 +14,11 @@
   </div>
   <br>
 
-Thanks for taking the time to visit my GitHub! The links above will take you to where you need to go. 
+  Thanks for visiting my GitHub! [**Click here**](https://mabon-ap-gwyn.herokuapp.com/) or see above for a link to my portfolio and CV.
+
+  [About Me](#snapshot) | [Projects](#projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Hobbies](#alternative-achievements-and-hobbies)
+
+</div>
 
 
 ## Overview
