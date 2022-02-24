@@ -42,7 +42,8 @@ The pandemic came around and I decided that I wanted to pick up coding again, an
 | **Sweepstake Generator** | A webapp that allows the user to create a sweepstake from a current football competition ie AFCon. Premier League. | Ruby on Rails, PostgreSQL, Heroku              |
 | **React Blog** | Single page webapp that allows the user to create a blog post and attribute a name to that post | React, HTML, CSS, JavaScript|
 | **Tech Test: Bank**| A tech test undertaken to showcase clean code that logs deposits withdrawals from a bank account | JavaScript|
-| **Weather App** | An app that lets you see what the weather is in a city of your choosing by typing it into the search bar. Used an external API | HTML, CSS, JavaScript
+| **Weather App** | An app that lets you see what the weather is in a city of your choosing by typing it into the search bar. Used an external API | HTML, CSS, JavaScript|
+| **Personal Website** | Website created to showcase my portfolio and CV | JavaScript, Next JS, React, Hostinger
 
 
 ## Skills
