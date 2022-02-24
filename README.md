@@ -101,3 +101,9 @@ Electrical Engineer
 - Upper 2nd Class (2.1) (achieved)
 - Dissertation/Project - Creation of a buck converted based photovoltaic emulator
 
+## Hobbies
+
+- Codewars and Leetcode enthusiast, especially since Makers Academy has come to an end to keep my mind sharp going forward.
+- Keeping acive by going to the gym and playing 11 a side football weekly. 
+- I'm quite an avid gamer especially when it comes to Call of Duty, FIFA, World of Warcraft and God of War
+
