@@ -16,7 +16,7 @@
 
   Thanks for visiting my GitHub! 
 
-  [About Me](#overview) | [Projects](#projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Hobbies](#alternative-achievements-and-hobbies)
+  [About Me](#overview) | [Projects](#projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Hobbies](#hobbies)
 
 </div>
 
