@@ -40,11 +40,11 @@ The pandemic came around and I decided that I wanted to pick up coding again, an
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [**Acebook**](https://github.com/mo-codes1/Acebook)          |Social media app inspired by Facebook. Comments and likes functionality along with personal user 'wall' (profile).. | Ruby on Rails, PostgreSQL |
-| **Sweepstake Generator** | A webapp that allows the user to create a sweepstake from a current football competition ie AFCon. Premier League. | Ruby on Rails, PostgreSQL, Heroku              |
-| **React Blog** | Single page webapp that allows the user to create a blog post and attribute a name to that post | React, HTML, CSS, JavaScript|
-| **Tech Test: Bank**| A tech test undertaken to showcase clean code that logs deposits withdrawals from a bank account | JavaScript|
-| **Weather App** | An app that lets you see what the weather is in a city of your choosing by typing it into the search bar. Used an external API | HTML, CSS, JavaScript|
-| **Personal Website** | Website created to showcase my portfolio and CV | JavaScript, Next JS, React, Hostinger
+| [**Sweepstake Generator**](https://github.com/mo-codes1/football-sweepstake-generator) | A webapp that allows the user to create a sweepstake from a current football competition ie AFCon. Premier League. | Ruby on Rails, PostgreSQL, Heroku              |
+| [**React Blog**](https://github.com/mo-codes1/React-Blog) | Single page webapp that allows the user to create a blog post and attribute a name to that post | React, HTML, CSS, JavaScript|
+| [**Tech Test: Bank**](https://github.com/mo-codes1/bank-tech-test)| A tech test undertaken to showcase clean code that logs deposits withdrawals from a bank account | JavaScript|
+| [**Weather App**](https://github.com/mo-codes1/Weather-App)| An app that lets you see what the weather is in a city of your choosing by typing it into the search bar. Used an external API | HTML, CSS, JavaScript|
+| [**Personal Website**](https://github.com/mo-codes1/Personal-Website-React)| Website created to showcase my portfolio and CV | JavaScript, Next JS, React, Hostinger
 
 
 ## Skills
