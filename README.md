@@ -39,7 +39,7 @@ The pandemic came around and I decided that I wanted to pick up coding again, an
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Acebook**            |Social media app inspired by Facebook. Comments and likes functionality along with personal user 'wall' (profile).. | Ruby on Rails, PostgreSQL |
+| [**Acebook**](https://github.com/mo-codes1/Acebook)          |Social media app inspired by Facebook. Comments and likes functionality along with personal user 'wall' (profile).. | Ruby on Rails, PostgreSQL |
 | **Sweepstake Generator** | A webapp that allows the user to create a sweepstake from a current football competition ie AFCon. Premier League. | Ruby on Rails, PostgreSQL, Heroku              |
 | **React Blog** | Single page webapp that allows the user to create a blog post and attribute a name to that post | React, HTML, CSS, JavaScript|
 | **Tech Test: Bank**| A tech test undertaken to showcase clean code that logs deposits withdrawals from a bank account | JavaScript|
